@@ -14,7 +14,7 @@
      - Remove default margin and padding (set both to 0)
 --------------------------------------------------------------- */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   background-color: #f5f5f5;
   color: #333333;
   margin: 0;
